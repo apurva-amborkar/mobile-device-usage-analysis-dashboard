@@ -28,10 +28,10 @@ To understand how users interact with mobile devices and identify usage trends f
 ## Dashboard Preview
 
 ### Overview Dashboard
-![Dashboard]user_bd dashboard-overview.png
+![Dashboard](user_bd dashboard-overview.png)
 
 ### App Usage Analysis
-![Dashbboard]Data and App Usage Analysis.png
+![Dashboard](Data and App Usage Analysis.png)
 
 ## Skills Demonstrated
 - Data Cleaning
