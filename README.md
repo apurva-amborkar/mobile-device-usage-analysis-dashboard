@@ -28,7 +28,7 @@ To understand how users interact with mobile devices and identify usage trends f
 ## Dashboard Preview
 
 ### Overview Dashboard
-
+user_bd dashboard-overview.png
 
 ### App Usage Analysis
 ![image](...)
