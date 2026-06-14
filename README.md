@@ -31,7 +31,7 @@ To understand how users interact with mobile devices and identify usage trends f
 ![Dashboard](https://github.com/apurva-amborkar/mobile-device-usage-analysis-dashboard/commit/a21dd551ee0c929f11b8687a02a543c6f9e176ca#diff-2a3dbb50ed72c5b4cd8e3639bf88eee54a481cadbf274783ba86b3b5817aabc0)
 
 ### App Usage Analysis
-![Dashboard](Data and App Usage Analysis.png)
+![Dashboard]( https://github.com/apurva-amborkar/mobile-device-usage-analysis-dashboard/commit/a21dd551ee0c929f11b8687a02a543c6f9e176ca)
 
 ## Skills Demonstrated
 - Data Cleaning
